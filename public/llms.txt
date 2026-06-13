@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://anigamers-9457fcd1.zappy5.app
+https://example.com
 הצטרפו לצוות AniGamers והיכנסו לספריית פרקי אנימה מתורגמים לעברית באיכות מעריצים. גישה בלעדית לחברים עם תוכן שמתעדכן תמיד. בואו לתרגם ולצפות יחד!
 
 ### גישת צוות
-https://anigamers-9457fcd1.zappy5.app/team-access
+https://example.com/team-access
 גישה מאובטחת לחברי צוות AniGamers בלבד. הכניסו את קוד הגישה 1224 והיכנסו למרכז ניהול פרקי האנימה המתורגמים לעברית. המסך הבא מחכה לכם!
 
 ### תהליך פרסום
-https://anigamers-9457fcd1.zappy5.app/publishing-workflow
+https://example.com/publishing-workflow
 מערכת ניהול התוכן של AniGamers מאפשרת לכם להוסיף סדרות ופרקי אנימה בקלות. ייעלו את תהליך הפרסום והביאו תרגום איכותי לעברית לכל חברי הצוות. התחילו עכשיו!
 
 ### קהילת דיסקורד
-https://anigamers-9457fcd1.zappy5.app/discord-community
+https://example.com/discord-community
 קהילת הדיסקורד של AniGamers היא המקום שבו רעיונות פוגשים תרגום. שתפו פעולה, תכננו פרקים ובנו ביחד את עתיד האנימה בעברית. הצטרפו לשיחה התוססת שלנו!
 
 ### צור קשר
-https://anigamers-9457fcd1.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על תרגום אנימה לעברית או רעיון לשיתוף פעולה? צרו קשר עם צוות AniGamers עוד היום. אנחנו כאן כדי להקשיב ולקדם את הקהילה ביחד!
 
 ### Products
-https://anigamers-9457fcd1.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - AniGamers
 
 ### Product Detail
-https://anigamers-9457fcd1.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - AniGamers
 
 ### Category
-https://anigamers-9457fcd1.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - AniGamers
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://anigamers-9457fcd1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://anigamers-9457fcd1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://anigamers-9457fcd1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -78,8 +78,8 @@ Anime Fan Translation / Entertainment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://anigamers-9457fcd1.zappy5.app/sitemap.xml
-- Robots: https://anigamers-9457fcd1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://anigamers-9457fcd1.zappy5.app/llms-full.txt
-- Products (JSON): https://anigamers-9457fcd1.zappy5.app/products.json
-- Products (Google Merchant RSS): https://anigamers-9457fcd1.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
