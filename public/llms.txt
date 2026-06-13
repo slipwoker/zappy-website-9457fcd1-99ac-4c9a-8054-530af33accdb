@@ -1,0 +1,85 @@
+# AniGamers — Generative Engine Optimization Map
+
+> AniGamers is a fan-based anime translation team that runs a private members-only website for uploading and viewing translated anime episodes. The site features password-protected access (code: 1224) for team members, a content management system for adding series and episodes, and is connected to their Discord community server. The platform is designed exclusively for the translation team's internal use.
+
+---
+
+## Pages
+
+### בית
+https://anigamers-9457fcd1.zappy5.app
+הצטרפו לצוות AniGamers והיכנסו לספריית פרקי אנימה מתורגמים לעברית באיכות מעריצים. גישה בלעדית לחברים עם תוכן שמתעדכן תמיד. בואו לתרגם ולצפות יחד!
+
+### גישת צוות
+https://anigamers-9457fcd1.zappy5.app/team-access
+גישה מאובטחת לחברי צוות AniGamers בלבד. הכניסו את קוד הגישה 1224 והיכנסו למרכז ניהול פרקי האנימה המתורגמים לעברית. המסך הבא מחכה לכם!
+
+### תהליך פרסום
+https://anigamers-9457fcd1.zappy5.app/publishing-workflow
+מערכת ניהול התוכן של AniGamers מאפשרת לכם להוסיף סדרות ופרקי אנימה בקלות. ייעלו את תהליך הפרסום והביאו תרגום איכותי לעברית לכל חברי הצוות. התחילו עכשיו!
+
+### קהילת דיסקורד
+https://anigamers-9457fcd1.zappy5.app/discord-community
+קהילת הדיסקורד של AniGamers היא המקום שבו רעיונות פוגשים תרגום. שתפו פעולה, תכננו פרקים ובנו ביחד את עתיד האנימה בעברית. הצטרפו לשיחה התוססת שלנו!
+
+### צור קשר
+https://anigamers-9457fcd1.zappy5.app/contact
+יש לכם שאלה על תרגום אנימה לעברית או רעיון לשיתוף פעולה? צרו קשר עם צוות AniGamers עוד היום. אנחנו כאן כדי להקשיב ולקדם את הקהילה ביחד!
+
+### Products
+https://anigamers-9457fcd1.zappy5.app/products
+המוצרים שלנו - AniGamers
+
+### Product Detail
+https://anigamers-9457fcd1.zappy5.app/product/:slug
+פרטי המוצר - AniGamers
+
+### Category
+https://anigamers-9457fcd1.zappy5.app/category/:slug
+מוצרים - AniGamers
+
+## Legal & Policy
+
+### Privacy Policy
+https://anigamers-9457fcd1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://anigamers-9457fcd1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://anigamers-9457fcd1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About AniGamers
+AniGamers is a fan-based anime translation team that runs a private members-only website for uploading and viewing translated anime episodes. The site features password-protected access (code: 1224) for team members, a content management system for adding series and episodes, and is connected to their Discord community server. The platform is designed exclusively for the translation team's internal use.
+
+## Target Audience
+- חברי צוות תרגום אנימה עם קוד גישה
+- חברי צוות תרגום אנימה
+- חובבי אנימה עם מיומנויות תרגום
+- סטודנטים לבלשנות שמתעניינים באנימה
+
+## Industry
+Anime Fan Translation / Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://anigamers-9457fcd1.zappy5.app/sitemap.xml
+- Robots: https://anigamers-9457fcd1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://anigamers-9457fcd1.zappy5.app/llms-full.txt
+- Products (JSON): https://anigamers-9457fcd1.zappy5.app/products.json
+- Products (Google Merchant RSS): https://anigamers-9457fcd1.zappy5.app/product-feed.xml
